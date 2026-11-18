@@ -24,4 +24,5 @@
 
 .tabular-nums {
   font-variant-numeric: tabular-nums;
+  font-variant-numeric-test: tabular-nums;
 }
